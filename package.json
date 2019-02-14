@@ -1,0 +1,30 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prince0fTime/LIRI-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prince0fTime/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/Prince0fTime/LIRI-Bot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^6.2.2",
+    "inquirer-menu": "^1.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7"
+  },
+  "devDependencies": {}
+}
