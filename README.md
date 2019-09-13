@@ -1,6 +1,7 @@
-# LIRI-Bot
+# LIRI-Bot node.js app
 
-LIRI-Bot app in node.js
+LIRI is like iPhone's SIRI However with a command line Interface and
+LIRI is a Language Interpretation and Recognition system
 With a custom menu system written using inquirer
 
 # NPM Packages used:
